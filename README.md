@@ -19,11 +19,11 @@ A: Our priority is security and operational stability. Due to this, we can't pro
 
 **Q: What do the roadmap categories mean?**
 
-   _Shipped_ - Included in the latest enterprise release.
-   _Preview_ - Feature is available for beta preview for selected customers
-   _Coming soon_ - Development work is ongoing; the feature is taking shape.
-   _We're working on it_ - Discovery and design work ongoing. We are still working through the implementation details or scoping the feature out.
-   _Ideas_ - We are assessing the ideas and thinking through how it might work. This is the best phase to share your feedback on how you want to see something implemented. Use cases and design ideas are more than welcome here.
+   - _Shipped_:  Included in the latest enterprise release.
+   - _Coming soon_: Feature is available for beta preview for selected customers
+   - _We're working on it_: Development work is ongoing; the feature is taking shape.
+   - _Discovery and design_: We are working through the implementation details or scoping the feature out.
+   - _Ideas_: We are assessing the ideas and thinking through how it might work. This is the best phase to share your feedback on how you want to see something implemented. Use cases and design ideas are more than welcome here.
 
 **Q: Is everything on the roadmap?**
 
